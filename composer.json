@@ -1,0 +1,19 @@
+{
+    "name": "vini/multidados",
+    "description": "teste de entrevista",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src",
+            "public\\": "public"
+
+        }
+    },
+    "authors": [
+        {
+            "name": "vini",
+            "email": "viniciusdnb@hotmail.com"
+        }
+    ],
+    "require": {}
+}
